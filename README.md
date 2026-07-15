@@ -6,7 +6,7 @@
 
 - <b>💬 Written Products</b>
   - [Why CVSS Alone Fails for Vulnerability Prioritization](https://github.com/R-CySec/WhyCVSSAloneFails)
-  - [When VPN Abuse Becomes Criminal Enablement: The 1VPNS Case](https://github.com/) 
+  - [When VPN Abuse Becomes Criminal Enablement: The 1VPNS Case](https://github.com/R-CySec/1VPNS-Case) 
 - <b>⚡ Home Labs</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -15,8 +15,17 @@
 
 <h2>📺 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
+</a>
 
+  <img src="https://img.shields.io/badge/GIAC-GSEC-005A9C?style=for-the-badge" alt="GIAC GSEC">
+</a>
+
+  <img src="https://img.shields.io/badge/GIAC-GCIH-005A9C?style=for-the-badge" alt="GIAC GCIH">
+</a>
+
+  <img src="https://img.shields.io/badge/GIAC-GCFE-005A9C?style=for-the-badge" alt="GCFE">
+</a>
 
 <h2> 🤳 Connect with me:</h2>
 
