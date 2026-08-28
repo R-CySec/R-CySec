@@ -10,7 +10,7 @@
   - [Why CVSS Alone Fails for Vulnerability Prioritization](https://github.com/R-CySec/WhyCVSSAloneFails)
   - [When VPN Abuse Becomes Criminal Enablement: The 1VPNS Case](https://github.com/R-CySec/1VPNS-Case) 
 - <b>⚡ Home Labs</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [SQL Database Ransomware Incident Response via Microsoft Sentinel](https://github.com/R-CySec/Sentinel-Lab)
 
 <h2>✅ Certifications</h2>
 
